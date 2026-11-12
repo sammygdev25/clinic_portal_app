@@ -1,0 +1,1210 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "username": "demo",
+      "email": "demo@example.com",
+      "password": "pbkdf2_sha256$1200000$qCjKhr3ni0ewPWdp5XwlcZ$WaXf5oRtO15zpcoH6AV14xgPI8H9MbtUJd4YMXvg7Yk=",
+      "first_name": "Demo",
+      "last_name": "Patient",
+      "is_staff": false,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "username": "sarah.chen",
+      "email": "sarah.chen@springfieldclinic.com",
+      "password": "",
+      "first_name": "Sarah",
+      "last_name": "Chen",
+      "is_staff": true,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+      "username": "michael.okafor",
+      "email": "michael.okafor@springfieldclinic.com",
+      "password": "",
+      "first_name": "Michael",
+      "last_name": "Okafor",
+      "is_staff": true,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+      "username": "priya.nair",
+      "email": "priya.nair@springfieldclinic.com",
+      "password": "",
+      "first_name": "Priya",
+      "last_name": "Nair",
+      "is_staff": true,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 5,
+    "fields": {
+      "username": "david.kim",
+      "email": "david.kim@springfieldclinic.com",
+      "password": "",
+      "first_name": "David",
+      "last_name": "Kim",
+      "is_staff": true,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 6,
+    "fields": {
+      "username": "elena.rodriguez",
+      "email": "elena.rodriguez@springfieldclinic.com",
+      "password": "",
+      "first_name": "Elena",
+      "last_name": "Rodriguez",
+      "is_staff": true,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 7,
+    "fields": {
+      "username": "robert.johnson",
+      "email": "robert.johnson@springfieldclinic.com",
+      "password": "",
+      "first_name": "Robert",
+      "last_name": "Johnson",
+      "is_staff": true,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 8,
+    "fields": {
+      "username": "aisha.malik",
+      "email": "aisha.malik@springfieldclinic.com",
+      "password": "",
+      "first_name": "Aisha",
+      "last_name": "Malik",
+      "is_staff": true,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 9,
+    "fields": {
+      "username": "thomas.becker",
+      "email": "thomas.becker@springfieldclinic.com",
+      "password": "",
+      "first_name": "Thomas",
+      "last_name": "Becker",
+      "is_staff": true,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 10,
+    "fields": {
+      "username": "jason.patterson",
+      "email": "jason.patterson@gmail.com",
+      "password": "",
+      "first_name": "Jason",
+      "last_name": "Patterson",
+      "is_staff": false,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 11,
+    "fields": {
+      "username": "maria.gonzalez",
+      "email": "maria.gonzalez@gmail.com",
+      "password": "",
+      "first_name": "Maria",
+      "last_name": "Gonzalez",
+      "is_staff": false,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 12,
+    "fields": {
+      "username": "tom.whitfield",
+      "email": "tom.whitfield@gmail.com",
+      "password": "",
+      "first_name": "Tom",
+      "last_name": "Whitfield",
+      "is_staff": false,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 13,
+    "fields": {
+      "username": "linda.brooks",
+      "email": "linda.brooks@gmail.com",
+      "password": "",
+      "first_name": "Linda",
+      "last_name": "Brooks",
+      "is_staff": false,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 14,
+    "fields": {
+      "username": "carlos.mendez",
+      "email": "carlos.mendez@gmail.com",
+      "password": "",
+      "first_name": "Carlos",
+      "last_name": "Mendez",
+      "is_staff": false,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 15,
+    "fields": {
+      "username": "nina.patel",
+      "email": "nina.patel@gmail.com",
+      "password": "",
+      "first_name": "Nina",
+      "last_name": "Patel",
+      "is_staff": false,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 16,
+    "fields": {
+      "username": "george.wallace",
+      "email": "george.wallace@gmail.com",
+      "password": "",
+      "first_name": "George",
+      "last_name": "Wallace",
+      "is_staff": false,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 17,
+    "fields": {
+      "username": "angela.torres",
+      "email": "angela.torres@springfieldclinic.com",
+      "password": "",
+      "first_name": "Angela",
+      "last_name": "Torres",
+      "is_staff": true,
+      "is_superuser": false,
+      "is_active": true
+    }
+  },
+  {
+    "model": "api.doctorprofile",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "specialty": "Family Medicine",
+      "bio": "Board-certified family physician focused on preventive care and chronic disease management.",
+      "photo": "/img/doctor_profiles/doctorprofile-1.jpg",
+      "years_experience": 12,
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorprofile",
+    "pk": 2,
+    "fields": {
+      "user": 3,
+      "specialty": "Orthopedics",
+      "bio": "Orthopedic surgeon specializing in sports injuries and joint replacement procedures.",
+      "photo": "/img/doctor_profiles/doctorprofile-2.jpg",
+      "years_experience": 15,
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorprofile",
+    "pk": 3,
+    "fields": {
+      "user": 4,
+      "specialty": "Internal Medicine",
+      "bio": "Internal medicine specialist with a focus on respiratory and infectious disease care.",
+      "photo": "/img/doctor_profiles/doctorprofile-3.jpg",
+      "years_experience": 9,
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorprofile",
+    "pk": 4,
+    "fields": {
+      "user": 5,
+      "specialty": "Endocrinology",
+      "bio": "Endocrinologist dedicated to diabetes, thyroid, and metabolic disorder treatment.",
+      "photo": "/img/doctor_profiles/doctorprofile-4.jpg",
+      "years_experience": 11,
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorprofile",
+    "pk": 5,
+    "fields": {
+      "user": 6,
+      "specialty": "Allergy and Immunology",
+      "bio": "Allergy and immunology specialist helping patients manage asthma and allergic reactions.",
+      "photo": "/img/doctor_profiles/doctorprofile-5.jpg",
+      "years_experience": 7,
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorprofile",
+    "pk": 6,
+    "fields": {
+      "user": 7,
+      "specialty": "Dermatology",
+      "bio": "Dermatologist with two decades of experience treating skin conditions and rashes.",
+      "photo": "/img/doctor_profiles/doctorprofile-6.jpg",
+      "years_experience": 18,
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorprofile",
+    "pk": 7,
+    "fields": {
+      "user": 8,
+      "specialty": "Obstetrics and Gynecology",
+      "bio": "OB-GYN providing compassionate prenatal, delivery, and women's health services.",
+      "photo": "/img/doctor_profiles/doctorprofile-7.jpg",
+      "years_experience": 10,
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorprofile",
+    "pk": 8,
+    "fields": {
+      "user": 9,
+      "specialty": "Orthopedic Surgery",
+      "bio": "Orthopedic surgeon focused on knee and hip reconstruction for active patients.",
+      "photo": "/img/doctor_profiles/doctorprofile-8.jpg",
+      "years_experience": 20,
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.patientprofile",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "date_of_birth": "1990-04-12",
+      "phone": "555-0142",
+      "address": "214 Maple Street, Springfield, IL",
+      "insurance_provider": "Blue Cross Blue Shield",
+      "insurance_id": "BC-88291",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.patientprofile",
+    "pk": 2,
+    "fields": {
+      "user": 10,
+      "date_of_birth": "1985-11-03",
+      "phone": "555-0199",
+      "address": "87 Oak Avenue, Springfield, IL",
+      "insurance_provider": "Aetna",
+      "insurance_id": "AET-55213",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.patientprofile",
+    "pk": 3,
+    "fields": {
+      "user": 11,
+      "date_of_birth": "1978-02-17",
+      "phone": "555-0176",
+      "address": "322 Birch Lane, Springfield, IL",
+      "insurance_provider": "Cigna",
+      "insurance_id": "CIG-77421",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.patientprofile",
+    "pk": 4,
+    "fields": {
+      "user": 12,
+      "date_of_birth": "1995-07-22",
+      "phone": "555-0134",
+      "address": "19 Elm Court, Springfield, IL",
+      "insurance_provider": "UnitedHealthcare",
+      "insurance_id": "UHC-33187",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.patientprofile",
+    "pk": 5,
+    "fields": {
+      "user": 13,
+      "date_of_birth": "1992-09-09",
+      "phone": "555-0188",
+      "address": "440 Cedar Road, Springfield, IL",
+      "insurance_provider": "Humana",
+      "insurance_id": "HUM-29044",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.patientprofile",
+    "pk": 6,
+    "fields": {
+      "user": 14,
+      "date_of_birth": "1980-12-30",
+      "phone": "555-0155",
+      "address": "58 Willow Drive, Springfield, IL",
+      "insurance_provider": "Kaiser Permanente",
+      "insurance_id": "KP-41098",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.patientprofile",
+    "pk": 7,
+    "fields": {
+      "user": 15,
+      "date_of_birth": "1988-05-14",
+      "phone": "555-0167",
+      "address": "76 Spruce Street, Springfield, IL",
+      "insurance_provider": "Blue Cross Blue Shield",
+      "insurance_id": "BC-60233",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.patientprofile",
+    "pk": 8,
+    "fields": {
+      "user": 16,
+      "date_of_birth": "1965-03-25",
+      "phone": "555-0120",
+      "address": "9 Pine Terrace, Springfield, IL",
+      "insurance_provider": "Medicare",
+      "insurance_id": "MED-10456",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.service",
+    "pk": 1,
+    "fields": {
+      "name": "Annual Physical Exam",
+      "description": "Comprehensive yearly checkup including bloodwork and vital screenings.",
+      "icon": "stethoscope",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.service",
+    "pk": 2,
+    "fields": {
+      "name": "Pediatric Checkup",
+      "description": "Routine wellness visits and growth tracking for children.",
+      "icon": "child",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.service",
+    "pk": 3,
+    "fields": {
+      "name": "Vaccination",
+      "description": "Immunizations for flu, tetanus, and other preventable illnesses.",
+      "icon": "syringe",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.service",
+    "pk": 4,
+    "fields": {
+      "name": "Dermatology Consultation",
+      "description": "Evaluation and treatment of skin, hair, and nail conditions.",
+      "icon": "skin",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.service",
+    "pk": 5,
+    "fields": {
+      "name": "Prenatal Care",
+      "description": "Ongoing monitoring and support throughout pregnancy.",
+      "icon": "baby",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.service",
+    "pk": 6,
+    "fields": {
+      "name": "Diabetes Management",
+      "description": "Personalized care plans for blood sugar control and monitoring.",
+      "icon": "tint",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.service",
+    "pk": 7,
+    "fields": {
+      "name": "Allergy Testing",
+      "description": "Skin and blood testing to identify environmental and food allergies.",
+      "icon": "leaf",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.service",
+    "pk": 8,
+    "fields": {
+      "name": "Mental Health Counseling",
+      "description": "Confidential counseling sessions for stress, anxiety, and depression.",
+      "icon": "brain",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.clinichours",
+    "pk": 1,
+    "fields": {
+      "day_of_week": "monday",
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "is_closed": false,
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.clinichours",
+    "pk": 2,
+    "fields": {
+      "day_of_week": "tuesday",
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "is_closed": false,
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.clinichours",
+    "pk": 3,
+    "fields": {
+      "day_of_week": "wednesday",
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "is_closed": false,
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.clinichours",
+    "pk": 4,
+    "fields": {
+      "day_of_week": "thursday",
+      "open_time": "08:00:00",
+      "close_time": "18:00:00",
+      "is_closed": false,
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.clinichours",
+    "pk": 5,
+    "fields": {
+      "day_of_week": "friday",
+      "open_time": "08:00:00",
+      "close_time": "17:00:00",
+      "is_closed": false,
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.clinichours",
+    "pk": 6,
+    "fields": {
+      "day_of_week": "saturday",
+      "open_time": "09:00:00",
+      "close_time": "13:00:00",
+      "is_closed": false,
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.clinichours",
+    "pk": 7,
+    "fields": {
+      "day_of_week": "sunday",
+      "open_time": null,
+      "close_time": null,
+      "is_closed": true,
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorschedule",
+    "pk": 1,
+    "fields": {
+      "doctor": 1,
+      "day_of_week": "monday",
+      "start_time": "08:00:00",
+      "end_time": "16:00:00",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorschedule",
+    "pk": 2,
+    "fields": {
+      "doctor": 2,
+      "day_of_week": "tuesday",
+      "start_time": "09:00:00",
+      "end_time": "17:00:00",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorschedule",
+    "pk": 3,
+    "fields": {
+      "doctor": 3,
+      "day_of_week": "wednesday",
+      "start_time": "08:30:00",
+      "end_time": "15:30:00",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorschedule",
+    "pk": 4,
+    "fields": {
+      "doctor": 4,
+      "day_of_week": "thursday",
+      "start_time": "10:00:00",
+      "end_time": "18:00:00",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorschedule",
+    "pk": 5,
+    "fields": {
+      "doctor": 5,
+      "day_of_week": "friday",
+      "start_time": "08:00:00",
+      "end_time": "14:00:00",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorschedule",
+    "pk": 6,
+    "fields": {
+      "doctor": 6,
+      "day_of_week": "monday",
+      "start_time": "12:00:00",
+      "end_time": "20:00:00",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorschedule",
+    "pk": 7,
+    "fields": {
+      "doctor": 7,
+      "day_of_week": "tuesday",
+      "start_time": "07:30:00",
+      "end_time": "15:30:00",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.doctorschedule",
+    "pk": 8,
+    "fields": {
+      "doctor": 8,
+      "day_of_week": "wednesday",
+      "start_time": "09:00:00",
+      "end_time": "17:00:00",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.appointment",
+    "pk": 1,
+    "fields": {
+      "patient": 1,
+      "doctor": 1,
+      "scheduled_at": "2024-05-10T09:00:00Z",
+      "status": "completed",
+      "reason": "Annual physical exam and bloodwork",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.appointment",
+    "pk": 2,
+    "fields": {
+      "patient": 1,
+      "doctor": 3,
+      "scheduled_at": "2024-06-02T14:30:00Z",
+      "status": "completed",
+      "reason": "Persistent cough and fatigue evaluation",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.appointment",
+    "pk": 3,
+    "fields": {
+      "patient": 1,
+      "doctor": 5,
+      "scheduled_at": "2024-07-15T10:00:00Z",
+      "status": "scheduled",
+      "reason": "Follow-up on allergy symptoms",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.appointment",
+    "pk": 4,
+    "fields": {
+      "patient": 2,
+      "doctor": 2,
+      "scheduled_at": "2024-05-15T10:00:00Z",
+      "status": "completed",
+      "reason": "Lower back pain assessment",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.appointment",
+    "pk": 5,
+    "fields": {
+      "patient": 3,
+      "doctor": 4,
+      "scheduled_at": "2024-05-20T11:15:00Z",
+      "status": "completed",
+      "reason": "Routine diabetes checkup",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.appointment",
+    "pk": 6,
+    "fields": {
+      "patient": 4,
+      "doctor": 6,
+      "scheduled_at": "2024-06-10T13:00:00Z",
+      "status": "completed",
+      "reason": "Skin rash consultation",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.appointment",
+    "pk": 7,
+    "fields": {
+      "patient": 5,
+      "doctor": 7,
+      "scheduled_at": "2024-07-01T08:45:00Z",
+      "status": "completed",
+      "reason": "Prenatal checkup visit",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.appointment",
+    "pk": 8,
+    "fields": {
+      "patient": 6,
+      "doctor": 8,
+      "scheduled_at": "2024-04-28T15:00:00Z",
+      "status": "cancelled",
+      "reason": "Knee pain follow-up",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.visitnote",
+    "pk": 1,
+    "fields": {
+      "appointment": 1,
+      "doctor": 1,
+      "patient": 1,
+      "diagnosis": "Hypertension, well controlled",
+      "content": "Blood pressure 128/82, stable on current medication. Advised continued diet and exercise.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.visitnote",
+    "pk": 2,
+    "fields": {
+      "appointment": 2,
+      "doctor": 3,
+      "patient": 1,
+      "diagnosis": "Acute bronchitis",
+      "content": "Lungs clear to auscultation apart from mild wheeze. Prescribed antibiotics and rest.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.visitnote",
+    "pk": 3,
+    "fields": {
+      "appointment": 4,
+      "doctor": 2,
+      "patient": 2,
+      "diagnosis": "Lumbar strain",
+      "content": "Tenderness in lower lumbar region, no radiculopathy. Recommended physical therapy.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.visitnote",
+    "pk": 4,
+    "fields": {
+      "appointment": 5,
+      "doctor": 4,
+      "patient": 3,
+      "diagnosis": "Type 2 diabetes mellitus",
+      "content": "A1C at 7.2%, adjusted metformin dosage and reviewed dietary guidelines.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.visitnote",
+    "pk": 5,
+    "fields": {
+      "appointment": 6,
+      "doctor": 6,
+      "patient": 4,
+      "diagnosis": "Contact dermatitis",
+      "content": "Erythematous patches on forearms consistent with contact dermatitis. Prescribed topical steroid.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.visitnote",
+    "pk": 6,
+    "fields": {
+      "appointment": 7,
+      "doctor": 7,
+      "patient": 5,
+      "diagnosis": "Normal prenatal checkup, 28 weeks",
+      "content": "Fundal height appropriate for gestational age, fetal heart tones normal.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.prescription",
+    "pk": 1,
+    "fields": {
+      "appointment": 1,
+      "doctor": 1,
+      "patient": 1,
+      "medication": "Lisinopril",
+      "dosage": "10mg once daily",
+      "instructions": "Take in the morning with water to manage blood pressure.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.prescription",
+    "pk": 2,
+    "fields": {
+      "appointment": 1,
+      "doctor": 1,
+      "patient": 1,
+      "medication": "Atorvastatin",
+      "dosage": "20mg once daily",
+      "instructions": "Take at bedtime for cholesterol management.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.prescription",
+    "pk": 3,
+    "fields": {
+      "appointment": 2,
+      "doctor": 3,
+      "patient": 1,
+      "medication": "Azithromycin",
+      "dosage": "500mg day 1, 250mg days 2-5",
+      "instructions": "Take with food to reduce stomach upset.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.prescription",
+    "pk": 4,
+    "fields": {
+      "appointment": 4,
+      "doctor": 2,
+      "patient": 2,
+      "medication": "Ibuprofen",
+      "dosage": "600mg every 8 hours as needed",
+      "instructions": "Take with food for lower back pain relief.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.prescription",
+    "pk": 5,
+    "fields": {
+      "appointment": 5,
+      "doctor": 4,
+      "patient": 3,
+      "medication": "Metformin",
+      "dosage": "1000mg twice daily",
+      "instructions": "Take with meals to manage blood sugar levels.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.prescription",
+    "pk": 6,
+    "fields": {
+      "appointment": 6,
+      "doctor": 6,
+      "patient": 4,
+      "medication": "Triamcinolone cream",
+      "dosage": "Apply thin layer twice daily",
+      "instructions": "Apply to affected areas, avoid face and broken skin.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.prescription",
+    "pk": 7,
+    "fields": {
+      "appointment": 7,
+      "doctor": 7,
+      "patient": 5,
+      "medication": "Prenatal vitamins",
+      "dosage": "One tablet daily",
+      "instructions": "Take daily with food throughout pregnancy.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.prescription",
+    "pk": 8,
+    "fields": {
+      "appointment": 2,
+      "doctor": 3,
+      "patient": 1,
+      "medication": "Guaifenesin",
+      "dosage": "400mg every 4 hours as needed",
+      "instructions": "Take with a full glass of water for cough relief.",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.bill",
+    "pk": 1,
+    "fields": {
+      "patient": 1,
+      "appointment": 1,
+      "amount": "150.00",
+      "status": "paid",
+      "due_date": "2024-05-24",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.bill",
+    "pk": 2,
+    "fields": {
+      "patient": 1,
+      "appointment": 2,
+      "amount": "95.00",
+      "status": "paid",
+      "due_date": "2024-06-16",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.bill",
+    "pk": 3,
+    "fields": {
+      "patient": 1,
+      "appointment": 3,
+      "amount": "120.00",
+      "status": "unpaid",
+      "due_date": "2024-07-29",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.bill",
+    "pk": 4,
+    "fields": {
+      "patient": 2,
+      "appointment": 4,
+      "amount": "180.00",
+      "status": "paid",
+      "due_date": "2024-05-29",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.bill",
+    "pk": 5,
+    "fields": {
+      "patient": 3,
+      "appointment": 5,
+      "amount": "110.00",
+      "status": "overdue",
+      "due_date": "2024-06-03",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.bill",
+    "pk": 6,
+    "fields": {
+      "patient": 4,
+      "appointment": 6,
+      "amount": "95.00",
+      "status": "paid",
+      "due_date": "2024-06-24",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.bill",
+    "pk": 7,
+    "fields": {
+      "patient": 5,
+      "appointment": 7,
+      "amount": "200.00",
+      "status": "unpaid",
+      "due_date": "2024-07-15",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.bill",
+    "pk": 8,
+    "fields": {
+      "patient": 6,
+      "appointment": 8,
+      "amount": "75.00",
+      "status": "unpaid",
+      "due_date": "2024-05-12",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.document",
+    "pk": 1,
+    "fields": {
+      "patient": 1,
+      "document_type": "insurance_card",
+      "file": "https://picsum.photos/seed/insurance-1/400/400",
+      "description": "Front of Blue Cross Blue Shield insurance card",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.document",
+    "pk": 2,
+    "fields": {
+      "patient": 1,
+      "document_type": "lab_result",
+      "file": "https://picsum.photos/seed/labresult-2/400/400",
+      "description": "Bloodwork results from annual physical exam",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.document",
+    "pk": 3,
+    "fields": {
+      "patient": 2,
+      "document_type": "insurance_card",
+      "file": "https://picsum.photos/seed/insurance-3/400/400",
+      "description": "Aetna insurance card, front and back",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.document",
+    "pk": 4,
+    "fields": {
+      "patient": 3,
+      "document_type": "lab_result",
+      "file": "https://picsum.photos/seed/labresult-4/400/400",
+      "description": "A1C lab panel results from June visit",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.document",
+    "pk": 5,
+    "fields": {
+      "patient": 4,
+      "document_type": "other",
+      "file": "https://picsum.photos/seed/derm-5/400/400",
+      "description": "Photo of skin rash for dermatology review",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.document",
+    "pk": 6,
+    "fields": {
+      "patient": 5,
+      "document_type": "lab_result",
+      "file": "https://picsum.photos/seed/prenatal-6/400/400",
+      "description": "Ultrasound report at 28 weeks gestation",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.document",
+    "pk": 7,
+    "fields": {
+      "patient": 6,
+      "document_type": "insurance_card",
+      "file": "https://picsum.photos/seed/insurance-7/400/400",
+      "description": "Kaiser Permanente insurance card copy",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "api.document",
+    "pk": 8,
+    "fields": {
+      "patient": 1,
+      "document_type": "other",
+      "file": "https://picsum.photos/seed/referral-8/400/400",
+      "description": "Referral letter to allergy and immunology specialist",
+      "updated_at": "2025-01-01T00:00:00Z",
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  }
+]

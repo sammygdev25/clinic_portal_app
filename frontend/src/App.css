@@ -1,0 +1,142 @@
+@keyframes ds-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes ds-shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* ---------- Patient Navbar ---------- */
+.patient-navbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+  background: var(--color-surface);
+  border-bottom: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+}
+
+.patient-navbar-inner {
+  max-width: var(--container-max-width, 1200px);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-lg);
+  padding: var(--space-md) var(--space-lg);
+}
+
+.patient-navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-primary);
+  text-decoration: none;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
+.patient-navbar-links {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs, 0.25rem);
+  flex: 1;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.patient-navbar-link {
+  display: inline-flex;
+  align-items: center;
+  padding: var(--space-sm) var(--space-md);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--color-text-secondary, var(--color-text));
+  text-decoration: none;
+  border-radius: var(--radius-md);
+  transition: background-color 0.15s ease, color 0.15s ease;
+  white-space: nowrap;
+}
+
+.patient-navbar-link:hover {
+  background: var(--color-primary-light, rgba(59, 130, 246, 0.08));
+  color: var(--color-primary);
+}
+
+.patient-navbar-link.active,
+.patient-navbar-link[aria-current="page"] {
+  background: var(--color-primary);
+  color: #fff;
+}
+
+.patient-navbar-user {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  flex-shrink: 0;
+}
+
+.patient-navbar-username {
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--color-text);
+  white-space: nowrap;
+}
+
+.patient-navbar-logout {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-sm) var(--space-md);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--color-primary);
+  background: transparent;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.patient-navbar-logout:hover {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+.patient-navbar-inner {
+    flex-wrap: wrap;
+    padding: var(--space-sm) var(--space-md);
+  }
+
+.patient-navbar-links {
+    order: 3;
+    width: 100%;
+    justify-content: flex-start;
+    gap: 0;
+    overflow-x: auto;
+    padding-top: var(--space-sm);
+    border-top: 1px solid var(--color-border);
+    margin-top: var(--space-sm);
+  }
+
+.patient-navbar-link {
+    padding: var(--space-sm);
+  }
+
+.patient-navbar-user {
+    gap: var(--space-sm);
+  }
+
+.patient-navbar-username {
+    display: none;
+  }
+}
